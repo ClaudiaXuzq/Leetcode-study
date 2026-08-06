@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mersault18/Leetcode-study/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/mersault18/Leetcode-study/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mersault18/Leetcode-study/tree/master/0142-linked-list-cycle-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mersault18/Leetcode-study/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mersault18/Leetcode-study/tree/master/0001-two-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mersault18/Leetcode-study/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
